@@ -1,0 +1,23 @@
+{
+  "name": "mmm-satellites",
+  "version": "1.0.0",
+  "description": "MM module about satellites orbiting Earth",
+  "main": "MMM-Satellites.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mykle1/MMM-Satellites.git"
+  },
+  "author": "Mykle1",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mykle1/MMM-Satellites/issues"
+  },
+  "homepage": "https://github.com/mykle1/MMM-Satellites#readme",
+  "dependencies": {
+    "satellites-above": "1.4.0"
+
+  }
+}
