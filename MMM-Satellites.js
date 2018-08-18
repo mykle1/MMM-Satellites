@@ -162,7 +162,7 @@ Module.register("MMM-Satellites", {
 
     processSatellites: function(data) {
         this.Satellites = data;
-		console.log(this.Satellites); // for checking
+//		console.log(this.Satellites); // for checking
         this.loaded = true;
     },
     
