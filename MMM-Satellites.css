@@ -4,14 +4,26 @@
  * Pick your color, copy and paste the HEX number. Example - #62FF00 = bright green.
  */
 
+@import url('https://fonts.googleapis.com/css?family=Muli:600');
+
 .MMM-Satellites .header {
-  color: #62FF00;               /* Header color. Default is white. */
+  color: #00ffff;               /* Header color. Default is white. */
+}
+
+.MMM-Satellites .id {
+  color: #00ffff;               /* id and launch date color. Default is white. */
+  font-family: Muli;
+  font-size: .5em;
 }
 
 .MMM-Satellites .azimuth {
-  color: #FFFFFF;               /* azimuth color. Default is white. */
+  color: #00ffff;               /* azimuth color. Default is white. */
+  font-family: Muli;
+  font-size: .5em;
 }
 
 .MMM-Satellites .elevation {
-  color: #FFFFFF;               /* elevation color. Default is white. */
+  color: #00ffff;               /* elevation color. Default is white. */
+  font-family: Muli;
+  font-size: .5em;
 }
