@@ -32,7 +32,7 @@ You could track manually but that would be fairly difficult.
            module: 'MMM-Satellites',
            position: 'top_left',
 		   config: {
-			    latitude: "Your Latitude",
+		    latitude: "Your Latitude",
                 longitude: "Your Longitude",
                 useHeader: false,    // true if you want a header      
                 header: "",          // Any text you want. useHeader must be true
